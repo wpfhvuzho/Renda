@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
+        //ボタンの形を円にする
         topButton.layer.cornerRadius = 125
     }
     
